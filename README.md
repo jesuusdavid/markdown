@@ -11,7 +11,7 @@ esta es la documentación de mi proyecto.
 texto en **Negrita** y *cursiva*
 Editor de markdown 
 
-[imagen surf](images/surf.jpg)
+![imagen surf](images/surf.jpg)
 
 1. Primero
 2. Segundo
